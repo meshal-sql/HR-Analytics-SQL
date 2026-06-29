@@ -29,12 +29,14 @@ This project analyzes HR employee data using SQL to extract meaningful insights 
 ---
 
 ## 📊 Sample Query Results
+### Employees Data
+![Employees Data](screenshots/employees_data.png)
 
-### Salary Analysis
-![Salary Analysis](screenshots/salary.png)
+### Salary Ranking
+![Salary Ranking](screenshots/salary_ranking.png)
 
-### Department Analysis
-![Department Analysis](screenshots/department.png)
+### Salary Categories
+![Salary Categories](screenshots/salary_categories.png)
 
 ---
 
