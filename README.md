@@ -1,4 +1,4 @@
-# # HR Analytics Project (SQL)
+# HR Analytics Project (SQL)
 
 ## 📊 Project Overview
 This project analyzes HR employee data using SQL to extract meaningful insights about salaries, departments, and employee distribution.
@@ -28,10 +28,12 @@ This project analyzes HR employee data using SQL to extract meaningful insights 
 
 ---
 
-## 📊 Sample Queries Output
-(Add screenshots here)
+## 📊 Sample Query Results
 
+### Salary Analysis
 ![Salary Analysis](screenshots/salary.png)
+
+### Department Analysis
 ![Department Analysis](screenshots/department.png)
 
 ---
