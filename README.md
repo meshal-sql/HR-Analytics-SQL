@@ -37,7 +37,6 @@ This project analyzes HR employee data using SQL to extract meaningful insights 
 
 ### Salary Categories
 ![Salary Categories](screenshots/salary_categories.png)
-
 ---
 
 ## 📌 Conclusion
